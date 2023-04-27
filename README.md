@@ -23,7 +23,7 @@
 - [`Prototipagem`](https://www.figma.com/proto/BYz51QMadoED3M1VWXL380/DISNEY-ADVENTURES?node-id=1-3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 
   #### Cores
-  <img width="200px" heigth="200px" src="https://user-images.githubusercontent.com/105024144/233258834-5edaa276-694d-4143-b448-e6ee3c598f58.png">
+  ![image](https://user-images.githubusercontent.com/105024144/234753520-b66e7a57-11ff-46e5-a831-f1ed75e9115b.png)
 
   #### Telas
-  ![image](https://user-images.githubusercontent.com/105024144/233258629-028e1c95-aa45-44ab-85ab-bb5db2e72798.png)
+   ![image](https://user-images.githubusercontent.com/105024144/234755131-ebca5d7f-f60a-4fbc-90ed-85f7a099ce10.png)
